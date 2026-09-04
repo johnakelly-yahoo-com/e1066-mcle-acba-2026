@@ -12,4 +12,4 @@ Public handout page and asset host for the Alameda County Bar Association MCLE p
 - `docs/`: Presentation, Take-Home Prompts, Program, Local Rules Survey, Traffic Court Case Study (PDF)
 - `thumbnails/`: first-page previews for the cards
 
-Program videos are served from the e1066-mcle-scba-2026 repo. Rebuild with `58/07 build_site.py` after regenerating any document; filenames are stable so the Blogger page needs no edit.
+Program videos are served from the e1066-mcle-scba-2026 repo; the three ethics handouts (Court Disclosure Kit, County Compliance Matrix, Where the Data Lives) from e1066-firm-ai-policy-2026. Rebuild with `58/07 build_site.py` after regenerating any document; filenames are stable so the Blogger page needs no edit.
